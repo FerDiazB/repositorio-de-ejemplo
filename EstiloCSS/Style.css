@@ -1,0 +1,26 @@
+body{
+	background-color: black;
+	text-align: center;
+}
+h1{
+	color: #CCAC00;
+	font-family: 'Satisfy', cursive;
+}
+h2{
+	color: white;
+	/*
+	font-family: 'Indie Flower', cursive;
+    font-family: 'Martel', serif;---*/
+    font-family: 'Barlow', sans-serif;
+}
+
+p{
+	color: white;
+	font-family: 'Barlow', sans-serif;
+
+}
+table,th,td{
+	
+	border: 2px solid #CCAC00;
+
+}
